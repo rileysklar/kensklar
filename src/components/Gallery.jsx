@@ -4,9 +4,9 @@ import "../styles/global.css";
 const PhotoGallery = () => {
   const [selectedImage, setSelectedImage] = useState(null);
 
-  const images = Array(6)
+  const images = Array(12)
     .fill(null)
-    .map((_, i) => `./photos/blog-placeholder-${i + 1}.jpg`);
+    .map((_, i) => `./photos/${i + 1}.jpg`);
 
   // Correctly handle clicks within useEffect to ensure code runs on the client side
   useEffect(() => {
