@@ -8,7 +8,7 @@ heroImage: "/blog-placeholder-1.jpg"
 ## Impressionist Photographer
 
 > "First we receive the light, then we impart the light. Thus we repair the world."
-> — <cite>The Kabbalah[^1]</cite>
+> — <cite>The Kabbalah</cite>
 
 ![blog placeholder](/blog-placeholder-about.jpg)
 
